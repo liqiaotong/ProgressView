@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AnProgressView">
+        <attr name="apv_lineColor" format="color"/>
+        <attr name="apv_fixedPointColor" format="color"/>
+        <attr name="apv_pointColor" format="color"/>
+        <attr name="apv_numberColor" format="color"/>
+        <attr name="apv_numberSize" format="dimension"/>
+        <attr name="apv_isShowNumber" format="boolean"/>
+        <attr name="apv_lineHeight" format="dimension"/>
+        <attr name="apv_fixedPointSize" format="dimension"/>
+        <attr name="apv_pointSize" format="dimension"/>
+        <attr name="apv_fixedPointCount" format="integer"/>
+    </declare-styleable>
+
+</resources>
